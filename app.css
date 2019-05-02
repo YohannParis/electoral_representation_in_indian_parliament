@@ -42,11 +42,11 @@
     line-height: 1;
 }
 
-.active {
+#missing-unique-id .active {
     color: blue;
 }
 
-div.tooltip {
+#missing-unique-id div.tooltip {
     position: absolute;
     text-align: center;
     width: 190px;
@@ -60,20 +60,20 @@ div.tooltip {
     pointer-events: none;
 }
 
-.region {
+#missing-unique-id .region {
     fill: none;
 }
 
-path {
+#missing-unique-id path {
     stroke: white;
     stroke-width: 0.5px;
 }
 
-.city {
+#missing-unique-id .city {
     font: 10px sans-serif;
     font-weight: bold;
 }
 
-.legend {
+#missing-unique-id .legend {
     font-size: 12px;
 }
